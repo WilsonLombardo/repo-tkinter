@@ -57,9 +57,9 @@ Este proyecto consiste en una aplicación de tragamonedas simple desarrollada co
 
 ---
 
-## ✍️ Autor
+## ✍️ Autores
 
-Este proyecto fue desarrollado por **=Daniela Fleitas, Luciano Bottegoni, Marcelo Escalante y Wilson Lombardo** como parte de la cursada del programa **INFORMATORIO Chaco 2025 - 2da Etapa: Desarrollo Web**.
+Este proyecto fue desarrollado por **Daniela Fleitas, Luciano Bottegoni, Marcelo Escalante y Wilson Lombardo** como parte de la cursada del programa **INFORMATORIO Chaco 2025 - 2da Etapa: Desarrollo Web**.
 
 ---
 
