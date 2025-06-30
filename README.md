@@ -32,11 +32,8 @@ Este proyecto consiste en una aplicación de tragamonedas simple desarrollada co
 
 ---
 
-## 📷 Captura de Pantalla (opcional)
-
-```markdown
-![Tragamonedas GUI](https://github.com/WilsonLombardo/repo-tkinter/blob/main/tragamonedas.png)
-```
+## 📷 Captura de Pantalla
+![Tragamonedas GUI](https://raw.githubusercontent.com/WilsonLombardo/repo-tkinter/main/tragamonedas.png)
 
 ---
 
